@@ -1,0 +1,7 @@
+# Ignore large raw data files
+*.tif
+*.tiff
+
+# Ignore Python system files
+__pycache__/
+*.pyc

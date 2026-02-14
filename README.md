@@ -11,7 +11,7 @@ The analysis of the study area reveals a significant decline in surface water av
 - **New Water Area:** 32.04 sq. km of new water formation (likely due to riverbank erosion or excavation).
 - **Critical Trend:** Data indicates a rapid acceleration of water loss post-2010.
 
-![Water Area Trend](https://chat.z.ai/c/results/trend_graph.png)
+![Water Area Trend](results/trend_graph.png)
 
 ## 🛠️ Tech Stack
 
@@ -51,7 +51,7 @@ The analysis of the study area reveals a significant decline in surface water av
 
 ## 🗺️ Spatial Output
 
-![Change Detection Map](https://chat.z.ai/c/results/Change_Map_Screenshot.png)_(Red indicates encroached/lost water areas, Blue indicates persistent water)_
+![Change Detection Map](results/Change_Map_Screenshot.png)_(Red indicates encroached/lost water areas, Blue indicates persistent water)_
 
 ## 💻 How to Run
 
@@ -66,4 +66,4 @@ The analysis of the study area reveals a significant decline in surface water av
 
 ## Author
 
-**Mahmudul Hasan Novo**Civil Engineer | Geospatial Data Analyst[LinkedIn Profile Link] | [Email]
+**Mahmudul Hasan Novo**Civil Engineer | Geospatial Data Analyst[LinkedIn Profile Link](https://www.linkedin.com/in/novomahmud/) | [Email](novomahmud@gmail.com)
